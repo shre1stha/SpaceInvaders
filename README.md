@@ -63,10 +63,4 @@ To develop and test changes locally:
 
 ---
 
-## Screenshots
 
-[Insert screenshots of the game in action]
-
-## Changelog
-
-[Include a changelog or release notes]
