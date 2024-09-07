@@ -1,9 +1,6 @@
 # SpaceInvaders
-# Space Invaders Game
 
 Welcome to the Space Invaders game! This is a classic arcade-style shooter implemented in Python using Pygame.
-
-[![CI Status](https://github.com/shre1stha/SpaceInvaders/actions/workflows/python-package.yml/badge.svg)](https://github.com/shre1stha/SpaceInvaders/actions/workflows/python-package.yml)
 
 ## Features
 
